@@ -20,6 +20,7 @@ namespace EjemploProyecto
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("HELLO FIME");
+            MessageBox.Show("HELLO AGAIN");
         }
     }
 }
